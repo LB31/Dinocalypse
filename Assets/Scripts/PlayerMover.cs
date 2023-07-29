@@ -76,7 +76,6 @@ public class PlayerMover : MonoBehaviour
         dir.Normalize();
         if (dir.y < 0) dir.y = -dir.y; // reflect down force on the ground
         impact += dir.normalized * force / mass;
-        Debug.Log("throw",gameObject);
         transform.parent = null;
 
         await Task.Delay(2000);
