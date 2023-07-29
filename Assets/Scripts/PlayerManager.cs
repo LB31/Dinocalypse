@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using UnityEngine;
 
 public class PlayerManager : MonoBehaviour
@@ -12,8 +13,9 @@ public class PlayerManager : MonoBehaviour
     [SerializeField] private PlayerMover SmallPlayerMover;
     [SerializeField] private PlayerInteractor SmallPlayerInteractor;
 
-    private void Start()
+    private async void Start()
     {
+        await Task.Delay(1500);
         SmallPlayerMover.enabled = false;
         SmallPlayerInteractor.enabled = false;
         CameraSmall.SetActive(false);
@@ -29,6 +31,9 @@ public class PlayerManager : MonoBehaviour
             SmallPlayerInteractor.enabled = !SmallPlayerInteractor.enabled;
             CameraBig.SetActive(!CameraBig.activeSelf);
             CameraSmall.SetActive(!CameraSmall.activeSelf);
+
+            BigPlayerMover.transform.parent = null;
+            SmallPlayerMover.transform.parent = null;
         }
 
     }

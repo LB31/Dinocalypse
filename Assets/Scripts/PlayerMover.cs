@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -46,6 +47,7 @@ public class PlayerMover : MonoBehaviour
         if (jumped && groundedPlayer)
         {
             playerVelocity.y += Mathf.Sqrt(jumpHeight / weight * -3.0f * gravityValue);
+            GetComponent<AudioSource>().Play();
         }
 
         playerVelocity.y += gravityValue * Time.deltaTime;
@@ -69,11 +71,15 @@ public class PlayerMover : MonoBehaviour
         jumped = jumpVal.isPressed;
     }
 
-    public void AddImpact(Vector3 dir, float force)
+    public async void AddImpact(Vector3 dir, float force)
     {
         dir.Normalize();
         if (dir.y < 0) dir.y = -dir.y; // reflect down force on the ground
         impact += dir.normalized * force / mass;
         Debug.Log("throw",gameObject);
+        transform.parent = null;
+
+        await Task.Delay(2000);
+        enabled = false;
     }
 }
