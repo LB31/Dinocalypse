@@ -80,6 +80,8 @@ public class PlayerMover : MonoBehaviour
         transform.parent = null;
 
         await Task.Delay(2000);
+        transform.rotation = Quaternion.identity;
         enabled = false;
+        
     }
 }
