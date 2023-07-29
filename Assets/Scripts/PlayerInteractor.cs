@@ -42,7 +42,7 @@ public class PlayerInteractor : MonoBehaviour
             {
                 PlayerMover mover = grabbedItem.GetComponent<PlayerMover>();
                 mover.enabled = true;
-                mover.AddImpact(new Vector3(1, 1, 0), throwForce);
+                mover.AddImpact(new Vector3(3, 5, 0), throwForce);
             }
         }
 
