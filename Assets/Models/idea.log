@@ -1,0 +1,272 @@
+2020-10-25 11:05:01,795 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-10-25 11:05:01,952 [    157]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-201.8743.12.41.6858069, 23 Sep 2020 17:36) 
+2020-10-25 11:05:01,967 [    172]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-10-25 11:05:01,967 [    172]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_242-release-1644-b01 (JetBrains s.r.o) 
+2020-10-25 11:05:01,967 [    172]   INFO -        #com.intellij.idea.Main - JVM: 25.242-b01 (OpenJDK 64-Bit Server VM) 
+2020-10-25 11:05:01,967 [    172]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djna.nosys=true -Djna.boot.library.path= -Didea.vendor.name=Google -Djb.vmOptionsFile=F:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Djava.library.path=F:\Program Files\Android\Android Studio\jre\jre\bin;F:\Program Files\Android\Android Studio\jre\jre\bin\server -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=AndroidStudio4.1 -XX:ErrorFile=C:\Users\user\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\user\java_error_in_studio.hprof 
+2020-10-25 11:05:02,061 [    266]   INFO -        #com.intellij.idea.Main - ext: F:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2020-10-25 11:05:02,061 [    266]   INFO -        #com.intellij.idea.Main - library path: F:\Program Files\Android\Android Studio\jre\jre\bin;F:\Program Files\Android\Android Studio\jre\jre\bin\server 
+2020-10-25 11:05:02,061 [    266]   INFO -        #com.intellij.idea.Main - boot library path: F:\Program Files\Android\Android Studio\jre\jre\bin 
+2020-10-25 11:05:02,061 [    266]   INFO -        #com.intellij.idea.Main - Locale=ja_JP JNU=MS932 file.encoding=MS932 
+2020-10-25 11:05:02,077 [    282]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 172 ms 
+2020-10-25 11:05:02,358 [    563]   INFO -        #com.intellij.idea.Main - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@d8347ef[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@34741bb5 
+2020-10-25 11:05:02,983 [   1188]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-10-25 11:05:03,221 [   1426]   INFO -        #com.intellij.idea.Main - Importing configs to C:\Users\user\AppData\Roaming\Google\AndroidStudio4.1 
+2020-10-25 11:05:38,114 [  36319]   INFO -        #com.intellij.idea.Main - No configs imported, starting with clean configs at C:\Users\user\AppData\Roaming\Google\AndroidStudio4.1 
+2020-10-25 11:05:39,911 [  38116]   INFO - llij.ide.plugins.PluginManager - Plugin org.intellij.groovy misses optional descriptor duplicates-groovy.xml 
+2020-10-25 11:05:39,911 [  38116]   INFO - llij.ide.plugins.PluginManager - Plugin org.intellij.groovy misses optional descriptor duplicates-detection-groovy.xml 
+2020-10-25 11:05:40,557 [  38762]   INFO - llij.ide.plugins.PluginManager - Plugin com.intellij.java misses optional descriptor profiler-java.xml 
+2020-10-25 11:05:40,768 [  38973]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: IDEA CORE (201.8743.12), com.intellij.platform.images (201.8743.12.41.6858069), JetBrains Repository Search (201.8743.12.41.6858069), Subversion (201.8743.12.41.6858069), Smali Support (201.8743.12.41.6858069), Configuration Script (201.8743.12.41.6858069), Copyright (201.8743.12.41.6858069), Java (201.8743.12.41.6858069), Git (201.8743.12.41.6858069), ChangeReminder (201.8743.12.41.6858069), Next File Prediction (201.8743.12.41.6858069), JUnit (201.8743.12.41.6858069), Layoutlib Native (201.8743.12.41.6858069), Layoutlib Standard (201.8743.12.41.6858069), Google Login (201.8743.12.41.6858069), Java IDE Customization (201.8743.12.41.6858069), Task Management (201.8743.12.41.6858069), GitHub (201.8743.12.41.6858069), IntelliLang (201.8743.12.41.6858069), TestNG (201.8743.12.41.6858069), Code Coverage for Java (201.8743.12.41.6858069), Java Stream Debugger (201.8743.12.41.6858069), Java Bytecode Decompiler (201.8743.12.41.6858069), Gradle (201.8743.12.41.6858069), Properties (201.8743.12.41.6858069), Java Internationalization (201.8743.12.41.6858069), Groovy (201.8743.12.41.6858069), Gradle-Java (201.8743.12.41.6858069), Kotlin (1.3.72-release-Studio4.1-5), Compose (201.8743.12.41.6858069), Google Cloud Tools Core (201.8743.12.41.6858069), Resource Bundle Editor (201.8743.12.41.6858069), Mercurial (201.8743.12.41.6858069), EditorConfig (201.8743.12.41.6858069), Terminal (201.8743.12.41.6858069), Android (201.8743.12.41.6858069), Android NDK Support (201.8743.12.41.6858069), Android APK Support (201.8743.12.41.6858069), Google Developers Samples (201.8743.12.41.6858069), Google Cloud Tools For Android Studio (201.8743.12.41.6858069), Test Recorder (201.8743.12.41.6858069), Firebase Services (201.8743.12.41.6858069), Firebase Testing (201.8743.12.41.6858069), App Links Assistant (201.8743.12.41.6858069), Firebase App Indexing (201.8743.12.41.6858069), Shell Script (201.8743.12.41.6858069), TextMate bundles (201.8743.12.41.6858069), YAML (201.8743.12.41.6858069), Settings Repository (201.8743.12.41.6858069) 
+2020-10-25 11:05:41,907 [  40112]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1226 
+2020-10-25 11:05:41,987 [  40192]   INFO - tellij.util.io.FileChannelUtil - interruptible FileChannel-s will be used for indexes 
+2020-10-25 11:05:41,987 [  40192]   INFO - tellij.util.io.FileChannelUtil - interruptible FileChannel-s will be used for indexes 
+2020-10-25 11:05:42,461 [  40666]   INFO - fs.newvfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\user\AppData\Local\Google\AndroidStudio4.1\caches\names.dat' does not exist 
+2020-10-25 11:05:42,633 [  40838]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-10-25 11:05:42,633 [  40838]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-10-25 11:05:42,754 [  40959]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.AndroidInitialConfigurator) 
+2020-10-25 11:05:42,874 [  41079]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-10-25 11:05:42,975 [  41180]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-10-25 11:05:43,197 [  41402]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-10-25 11:05:43,891 [  42096]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: F:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2020-10-25 11:05:43,956 [  42161]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-10-25 11:05:44,446 [  42651]   INFO - stubs.SerializationManagerImpl - Name storage is repaired 
+2020-10-25 11:05:44,476 [  42681]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'FilenameIndex'; old = -1, new = 3 
+2020-10-25 11:05:44,557 [  42762]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'FrameworkDetectionIndex'; old = -1, new = 0 
+2020-10-25 11:05:44,607 [  42812]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'TodoIndex'; old = -1, new = 4107 
+2020-10-25 11:05:44,678 [  42883]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'IdIndex'; old = -1, new = 4112 
+2020-10-25 11:05:44,708 [  42913]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'filetypes'; old = -1, new = 2 
+2020-10-25 11:05:44,728 [  42933]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'Stubs'; old = -1, new = 46 
+2020-10-25 11:05:45,281 [  43486]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'Trigram.Index'; old = -1, new = 4099 
+2020-10-25 11:05:45,303 [  43508]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'fileIncludes'; old = -1, new = 6 
+2020-10-25 11:05:45,505 [  43710]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'DomFileIndex'; old = -1, new = 420938826 
+2020-10-25 11:05:45,515 [  43720]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'RelaxSymbolIndex'; old = -1, new = 0 
+2020-10-25 11:05:45,535 [  43740]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'XmlTagNames'; old = -1, new = 1 
+2020-10-25 11:05:45,553 [  43758]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'XmlNamespaces'; old = -1, new = 7 
+2020-10-25 11:05:45,574 [  43779]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'html5.custom.attributes.index'; old = -1, new = 1 
+2020-10-25 11:05:45,586 [  43791]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'SchemaTypeInheritance'; old = -1, new = 2 
+2020-10-25 11:05:45,606 [  43811]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'json.file.root.values'; old = -1, new = 5 
+2020-10-25 11:05:45,626 [  43831]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'ImageFileInfoIndex'; old = -1, new = 8 
+2020-10-25 11:05:45,644 [  43849]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'bytecodeAnalysis'; old = -1, new = 4107 
+2020-10-25 11:05:45,660 [  43865]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.auto.module.name'; old = -1, new = 5 
+2020-10-25 11:05:45,675 [  43880]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.source.module.name'; old = -1, new = 2 
+2020-10-25 11:05:45,691 [  43896]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.null.method.argument'; old = -1, new = 4097 
+2020-10-25 11:05:45,722 [  43927]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.simple.property'; old = -1, new = 3 
+2020-10-25 11:05:45,738 [  43943]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.fun.expression'; old = -1, new = 4100 
+2020-10-25 11:05:45,760 [  43965]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.binary.plus.expression'; old = -1, new = 4099 
+2020-10-25 11:05:45,791 [  43996]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'RefQueueIndex'; old = -1, new = 0 
+2020-10-25 11:05:45,807 [  44012]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'xmlProperties'; old = -1, new = 2 
+2020-10-25 11:05:45,822 [  44027]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'groovy.trait.fields'; old = -1, new = 5 
+2020-10-25 11:05:45,838 [  44043]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'groovy.trait.methods'; old = -1, new = 25 
+2020-10-25 11:05:45,845 [  44050]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex'; old = -1, new = 5 
+2020-10-25 11:05:45,897 [  44102]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex'; old = -1, new = 3 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex'; old = -1, new = 3 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex'; old = -1, new = 4 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex'; old = -1, new = 1 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex'; old = -1, new = 1 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex'; old = -1, new = 5 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex'; old = -1, new = 2 
+2020-10-25 11:05:45,913 [  44118]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-10-25 11:05:45,913 [  44118]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex'; old = -1, new = 1 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex'; old = -1, new = 4 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'editorconfig.index.name'; old = -1, new = 5 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME'; old = -1, new = 10 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'BindingXmlIndex'; old = -1, new = 7 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'MlModelFileIndex'; old = -1, new = 4 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'NavXmlIndex'; old = -1, new = 3 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'FileNameWithoutExtensionIndex'; old = -1, new = 1 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'android.ndk.jni.nativemethodindex'; old = -1, new = 3 
+2020-10-25 11:05:45,928 [  44133]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'yaml.keys.name'; old = -1, new = 1 
+2020-10-25 11:05:45,985 [  44190]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex'; old = -1, new = 3 
+2020-10-25 11:05:46,008 [  44213]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex'; old = -1, new = 4 
+2020-10-25 11:05:46,028 [  44233]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex'; old = -1, new = 1 
+2020-10-25 11:05:46,046 [  44251]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex'; old = -1, new = 1 
+2020-10-25 11:05:46,078 [  44283]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex'; old = -1, new = 5 
+2020-10-25 11:05:46,088 [  44293]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex'; old = -1, new = 2 
+2020-10-25 11:05:46,159 [  44364]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex'; old = -1, new = 1 
+2020-10-25 11:05:46,169 [  44374]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex'; old = -1, new = 4 
+2020-10-25 11:05:46,197 [  44402]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'editorconfig.index.name'; old = -1, new = 5 
+2020-10-25 11:05:46,229 [  44434]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME'; old = -1, new = 10 
+2020-10-25 11:05:46,268 [  44473]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'BindingXmlIndex'; old = -1, new = 7 
+2020-10-25 11:05:46,310 [  44515]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'MlModelFileIndex'; old = -1, new = 4 
+2020-10-25 11:05:46,350 [  44555]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'NavXmlIndex'; old = -1, new = 3 
+2020-10-25 11:05:46,469 [  44674]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'FileNameWithoutExtensionIndex'; old = -1, new = 1 
+2020-10-25 11:05:46,502 [  44707]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'android.ndk.jni.nativemethodindex'; old = -1, new = 3 
+2020-10-25 11:05:46,510 [  44715]   WARN - nSystem.impl.ActionManagerImpl - keymap "ReSharper" not found [Plugin: com.android.tools.ndk] 
+2020-10-25 11:05:46,532 [  44737]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'yaml.keys.name'; old = -1, new = 1 
+2020-10-25 11:05:46,552 [  44757]   INFO - il.indexing.FileBasedIndexImpl - Indices to be rebuilt after corruption:FilenameIndex,FrameworkDetectionIndex,TodoIndex,IdIndex,filetypes,Stubs,Trigram.Index,fileIncludes,DomFileIndex,RelaxSymbolIndex,XmlTagNames,XmlNamespaces,html5.custom.attributes.index,SchemaTypeInheritance,json.file.root.values,ImageFileInfoIndex,bytecodeAnalysis,java.auto.module.name,java.source.module.name,java.null.method.argument,java.simple.property,java.fun.expression,java.binary.plus.expression,RefQueueIndex,xmlProperties,groovy.trait.fields,groovy.trait.methods,org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex,org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex,org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex,editorconfig.index.name,com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME,BindingXmlIndex,MlModelFileIndex,NavXmlIndex,FileNameWithoutExtensionIndex,android.ndk.jni.nativemethodindex,yaml.keys.name 
+2020-10-25 11:05:46,622 [  44827]   INFO - leBasedIndexDataInitialization - Initialization done: 3590 
+2020-10-25 11:05:46,723 [  44928]   WARN - nsions.impl.ExtensionPointImpl - Extension to be removed not found: class org.jetbrains.plugins.gradle.execution.test.runner.TestClassGradleConfigurationProducer 
+2020-10-25 11:05:47,114 [  45319]   INFO - il.indexing.FileBasedIndexImpl - indexes cleared: yaml.keys.name, android.ndk.jni.nativemethodindex, FileNameWithoutExtensionIndex, NavXmlIndex, MlModelFileIndex, BindingXmlIndex, com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME, editorconfig.index.name, org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex
+survived indexes: org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex, org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex, groovy.trait.methods, groovy.trait.fields, xmlProperties, RefQueueIndex, java.binary.plus.expression, java.fun.expression, java.simple.property, java.null.method.argument, java.source.module.name, java.auto.module.name, bytecodeAnalysis, ImageFileInfoIndex, json.file.root.values, SchemaTypeInheritance, html5.custom.attributes.index, XmlNamespaces, XmlTagNames, RelaxSymbolIndex, DomFileIndex, fileIncludes, Trigram.Index, Stubs, filetypes, IdIndex, TodoIndex, FrameworkDetectionIndex, FilenameIndex 
+2020-10-25 11:05:47,116 [  45321]   INFO - il.indexing.FileBasedIndexImpl - scheduleIndexRebuild, reason: File type change; indexes [org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex, org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex, yaml.keys.name, android.ndk.jni.nativemethodindex, FileNameWithoutExtensionIndex, NavXmlIndex, MlModelFileIndex, BindingXmlIndex, com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME, editorconfig.index.name, org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex] will be rebuild completely due to version change 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Found Studio home directory at: 'F:\Program Files\Android\Android Studio' 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'F:/Program Files/Android/Android Studio/sdk' 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'F:/Program Files/Android/sdk' 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Unable to locate SDK within the Android studio installation. 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_HOME environment variable 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_SDK_ROOT environment variable 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: Last SDK used by Android tools 
+2020-10-25 11:05:47,157 [  45362]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: Default install directory 
+2020-10-25 11:05:48,003 [  46208]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'dom.namespaceKey'; old = -1, new = 1 
+2020-10-25 11:05:48,003 [  46208]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'dom.elementClass'; old = -1, new = 0 
+2020-10-25 11:05:48,019 [  46224]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.module.name'; old = -1, new = 4 
+2020-10-25 11:05:48,035 [  46240]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.method.parameter.types'; old = -1, new = 3 
+2020-10-25 11:05:48,035 [  46240]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.class.extlist'; old = -1, new = 3 
+2020-10-25 11:05:48,050 [  46255]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.class.shortname'; old = -1, new = 4 
+2020-10-25 11:05:48,097 [  46302]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'jvm.static.member.type'; old = -1, new = 2 
+2020-10-25 11:05:48,113 [  46318]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'jvm.static.member.name'; old = -1, new = 2 
+2020-10-25 11:05:48,144 [  46349]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.method.name'; old = -1, new = 2 
+2020-10-25 11:05:48,144 [  46349]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.class.fqn'; old = -1, new = 1 
+2020-10-25 11:05:48,175 [  46380]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.field.name'; old = -1, new = 2 
+2020-10-25 11:05:48,175 [  46380]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.anonymous.baseref'; old = -1, new = 2 
+2020-10-25 11:05:48,191 [  46396]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.annotations'; old = -1, new = 2 
+2020-10-25 11:05:48,206 [  46411]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'properties.index'; old = -1, new = 2 
+2020-10-25 11:05:48,206 [  46411]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.class.fqn'; old = -1, new = 1 
+2020-10-25 11:05:48,253 [  46458]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.script.fqn'; old = -1, new = 2 
+2020-10-25 11:05:48,269 [  46474]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.field.name'; old = -1, new = 2 
+2020-10-25 11:05:48,300 [  46505]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.method.name'; old = -1, new = 2 
+2020-10-25 11:05:48,300 [  46505]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.annot.method.name'; old = -1, new = 2 
+2020-10-25 11:05:48,316 [  46521]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.annot.members'; old = -1, new = 2 
+2020-10-25 11:05:48,363 [  46568]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.script.class'; old = -1, new = 2 
+2020-10-25 11:05:48,378 [  46583]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.class.super'; old = -1, new = 2 
+2020-10-25 11:05:48,378 [  46583]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.anonymous.class'; old = -1, new = 3 
+2020-10-25 11:05:48,394 [  46599]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,410 [  46615]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,410 [  46615]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,425 [  46630]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,441 [  46646]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,472 [  46677]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,488 [  46693]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,503 [  46708]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,503 [  46708]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-10-25 11:05:48,550 [  46755]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,566 [  46771]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,566 [  46771]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,597 [  46802]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,613 [  46818]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,628 [  46833]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,660 [  46865]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,675 [  46880]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex'; old = -1, new = 3 
+2020-10-25 11:05:48,722 [  46927]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,769 [  46974]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,785 [  46990]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,800 [  47005]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,800 [  47005]   INFO - dea.updater.SdkComponentSource - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:05:48,800 [  47005]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,816 [  47021]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:05:48,816 [  47021]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:05:48,816 [  47021]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:05:48,816 [  47021]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:05:48,831 [  47036]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:05:48,847 [  47052]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex'; old = -1, new = 2 
+2020-10-25 11:05:48,988 [  47193]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:49,004 [  47209]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex'; old = -1, new = 2 
+2020-10-25 11:05:49,004 [  47209]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:05:49,035 [  47240]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:05:49,035 [  47240]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:05:49,051 [  47256]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:05:49,066 [  47271]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:05:49,082 [  47287]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:05:49,098 [  47303]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:05:49,098 [  47303]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:05:49,113 [  47318]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:05:49,113 [  47318]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:05:49,113 [  47318]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:05:49,113 [  47318]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:05:49,348 [  47553]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex'; old = -1, new = 2 
+2020-10-25 11:05:49,363 [  47568]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:49,410 [  47615]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex'; old = -1, new = 2 
+2020-10-25 11:05:49,519 [  47724]   INFO - tellij.psi.stubs.StubIndexImpl - Following stub indices will be built:dom.namespaceKey,dom.elementClass,java.annotations,java.class.extlist,java.field.name,java.method.name,jvm.static.member.name,jvm.static.member.type,java.anonymous.baseref,java.method.parameter.types,java.class.shortname,java.class.fqn,java.module.name,properties.index,gr.class.fqn,gr.script.fqn,gr.field.name,gr.method.name,gr.annot.method.name,gr.annot.members,gr.script.class,gr.class.super,gr.anonymous.class,org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex,org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex,org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex 
+2020-10-25 11:05:49,519 [  47724]   INFO - exImpl$StubIndexInitialization - Initialization done: 2906 
+2020-10-25 11:05:50,682 [  48887]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-10-25 11:05:50,807 [  49012]   INFO - penapi.application.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.p9.show.roots.in.file.chooser, inline.browse.button, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, copy.reference.popup, new.large.text.file.viewer, property.value.inplace.editing, terminal.shell.command.handling 
+2020-10-25 11:05:53,275 [  51480]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.apk.symbols.DebugSymbolNotifications) 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Found Studio home directory at: 'F:\Program Files\Android\Android Studio' 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'F:/Program Files/Android/Android Studio/sdk' 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'F:/Program Files/Android/sdk' 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Unable to locate SDK within the Android studio installation. 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_HOME environment variable 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_SDK_ROOT environment variable 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: Last SDK used by Android tools 
+2020-10-25 11:05:55,622 [  53827]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: Default install directory 
+2020-10-25 11:06:23,507 [  81712]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2020-10-25 11:06:41,987 [ 100192]   WARN - ugins.textmate.TextMateService - Missing builtin bundles, checked: 
+C:/Users/user/AppData/Roaming/Google/AndroidStudio4.1/plugins/textmate/lib/bundles
+F:/Program Files/Android/Android Studio/plugins/textmate/lib/bundles 
+2020-10-25 11:09:49,491 [ 287696]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:09:49,493 [ 287698]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:09:49,494 [ 287699]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:09:49,494 [ 287699]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:09:49,498 [ 287703]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:09:49,500 [ 287705]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:09:49,501 [ 287706]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:09:49,504 [ 287709]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:09:49,507 [ 287712]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:09:49,508 [ 287713]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:09:49,509 [ 287714]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:09:49,510 [ 287715]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:12:20,756 [ 438961]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:12:20,759 [ 438964]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:12:20,760 [ 438965]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:12:20,763 [ 438968]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:12:20,764 [ 438969]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:12:20,764 [ 438969]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:12:20,768 [ 438973]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:12:20,770 [ 438975]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:12:20,773 [ 438978]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:12:20,774 [ 438979]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:12:20,777 [ 438982]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:12:20,777 [ 438982]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:12:48,723 [ 466928]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:12:48,724 [ 466929]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:12:48,725 [ 466930]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:12:48,727 [ 466932]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:12:48,729 [ 466934]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:12:48,733 [ 466938]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:12:48,733 [ 466938]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:12:48,736 [ 466941]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:12:48,737 [ 466942]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:12:48,738 [ 466943]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:12:48,740 [ 466945]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:12:48,741 [ 466946]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:12:59,374 [ 477579]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:12:59,379 [ 477584]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:12:59,379 [ 477584]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:12:59,381 [ 477586]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:12:59,383 [ 477588]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:12:59,385 [ 477590]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:12:59,388 [ 477593]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:12:59,391 [ 477596]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:12:59,393 [ 477598]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:12:59,396 [ 477601]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:12:59,396 [ 477601]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:12:59,398 [ 477603]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:13:05,075 [ 483280]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\user\.android\repositories.cfg could not be loaded. 
+2020-10-25 11:13:05,077 [ 483282]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-10-25 11:13:05,077 [ 483282]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-10-25 11:13:05,081 [ 483286]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-10-25 11:13:05,085 [ 483290]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-10-25 11:13:05,085 [ 483290]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-10-25 11:13:05,087 [ 483292]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-10-25 11:13:05,088 [ 483293]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-10-25 11:13:05,091 [ 483296]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-10-25 11:13:05,091 [ 483296]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-10-25 11:13:05,094 [ 483299]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-10-25 11:13:05,094 [ 483299]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-10-25 11:13:19,154 [ 497359]   INFO - rationStore.ComponentStoreImpl - Saving appDaemonCodeAnalyzerSettings took 25 ms, DebuggerSettings took 33 ms, FileTypeManager took 15 ms 
+2020-10-25 11:29:55,843 [1494048]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 16 ms 
+2020-10-25 11:30:30,161 [1528366]   INFO - rd.FirstRunWizardFrameProvider - Overriding welcome frame to be resizable 
+2020-10-25 11:30:55,303 [1553508]   INFO - manager.EmulatorProcessHandler - Emulator: "F:\Program Files\emulator\emulator.exe" -netdelay none -netspeed full -avd Pixel_3a_API_30_x86 
+2020-10-25 11:30:55,332 [1553537]   INFO - roid.tools.idea.adb.AdbService - Initializing adb using: F:\Program Files\platform-tools\adb.exe 
+2020-10-25 11:30:56,072 [1554277]   INFO - manager.EmulatorProcessHandler - Emulator: Process finished with exit code 1 
+2020-10-25 11:30:56,073 [1554278]   WARN - manager.EmulatorProcessHandler - Emulator terminated with exit code 1 
+2020-10-25 11:30:58,161 [1556366]   WARN -            #com.android.ddmlib - * daemon not running; starting now at tcp:5037 
+2020-10-25 11:30:59,094 [1557299]   WARN -            #com.android.ddmlib - * daemon started successfully 
+2020-10-25 11:30:59,111 [1557316]   INFO -            #com.android.ddmlib - Connected to adb for device monitoring 
+2020-10-25 11:30:59,317 [1557522]   INFO - roid.tools.idea.adb.AdbService - Successfully connected to adb 
